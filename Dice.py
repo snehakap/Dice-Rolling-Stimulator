@@ -42,3 +42,4 @@ while a=="y":
         print("|* * *|")
         print("-------")
     a=input("To roll the dice again press y and to discontinue press n: ")
+    
