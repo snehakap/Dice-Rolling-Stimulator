@@ -1,2 +1,2 @@
 # Dice-Rolling-Stimulator
-This project provides random number on the dice.
+User friendly interface to roll a dice and get a random number everytime.
